@@ -1,0 +1,3 @@
+We will use routes folder to organize our API routes.
+This will be deleted later.
+

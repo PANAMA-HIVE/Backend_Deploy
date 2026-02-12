@@ -1,0 +1,23 @@
+/* This file is for setup and debugging issues*/
+
+-> To setup the backend part of this project
+1. npm install
+2. npm start or npm run start
+-> Make sure you see "Server running on port 5000"
+
+
+
+#Clerk info: https://clerk.com/docs/expressjs/getting-started/quickstart
+import { clerkClient, requireAuth, getAuth } from '@clerk/express'
+
+#run backend server
+1. npm run start (This will run the server)
+
+
+#dev tools
+-> I have installed nodemon for this project(for backend)
+-> Nodemon allows us to run the server while coding so we don't have to restart every time we make changes.
+
+1. npm run dev (This will start nodemon)
+
+-Edited by Ashish R.

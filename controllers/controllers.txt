@@ -1,0 +1,4 @@
+-> This folder will be used for adding controllers
+-> This file will also be deleted later.
+
+#Clerk auth has been added. (Frontend and Backend.)

@@ -1,0 +1,7 @@
+
+#ignored files
+/node_modules
+.env
+expo-env.d.ts
+#setup instructions
+#setup.txt.DS_Store.env.local
